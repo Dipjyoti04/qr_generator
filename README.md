@@ -46,3 +46,9 @@ ________________________________________________________________________________
 **If GUI use**
 
     qr_generator_with_gui.py
+
+<br>
+<br>
+
+# BUY ME A COFFEE 😉🍵<br>
+<img src="https://github.com/user-attachments/assets/82f565e0-49b5-4ca4-bd85-94eb45438fb8" width="200">
