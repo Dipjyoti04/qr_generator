@@ -7,9 +7,9 @@ QR Generator is a simple and customizable QR code generator built with Python an
 
 Whether you're creating a basic QR code or designing a more visually customized version, this tool offers flexibility and ease of use — no command-line knowledge required.
 
-<img src="https://github.com/user-attachments/assets/65c6fb9a-5a34-44a0-9242-04aa4ac097df" width="333">
-<img src="https://github.com/user-attachments/assets/56cf34d2-114c-46d4-9bec-993ea6cb8d6e" width="333">
-<img src="https://github.com/user-attachments/assets/5b80d0b7-f7ac-4423-83ea-1dc645a095c9" width="333">
+<img src="https://github.com/user-attachments/assets/65c6fb9a-5a34-44a0-9242-04aa4ac097df" width="200">
+<img src="https://github.com/user-attachments/assets/56cf34d2-114c-46d4-9bec-993ea6cb8d6e" width="200">
+<img src="https://github.com/user-attachments/assets/5b80d0b7-f7ac-4423-83ea-1dc645a095c9" width="200">
 
 
 | **Feature / Option**                        | **Function / Explanation**                           | **Position in GUI**             |
